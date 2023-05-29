@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - endGame
+  - supply
+  - Undefined
+  - DieReason
+  - PlayerName
+  - killer
+  - cutscene
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - mp4
+  - Water
+  - UI
+  - whatIsPlayer
+  - 
+  - 
+  - whatIsWall
+  - whatIsGround
+  - cutscene
+  - 
+  - 
+  - whatIsKnife
+  - 
+  - 
+  - Start
+  - 
+  - 
+  - postProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 3DUI
+  - 
+  - Player
+  - Ground
+  - Grenade
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: whatIsGround
+    uniqueID: 3987286823
+    locked: 0
+  - name: Start
+    uniqueID: 94645357
+    locked: 0
+  - name: mp4
+    uniqueID: 1053224511
+    locked: 0
